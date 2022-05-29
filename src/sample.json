@@ -1,0 +1,44 @@
+{
+    "quotes": [
+        {
+            "id":1,
+            "name": "Beagles",
+            "breed": "Beagles"
+        },
+        {
+            "id":2,
+            "name": "German Shepherd",
+            "breed": "German Shepherd"
+        },
+        {
+            "id":3,
+            "name": "Jobs",
+            "breed": "Great Dane"
+        },
+        {
+            "id":4,
+            "name": "Boxer",
+            "breed": "Boxer"
+        },
+        {
+            "id":5,
+            "name": "Rottweiler",
+            "breed": "Rottweiler"
+        },
+        {
+            "id":6,
+            "name": "Pugs",
+            "breed": "Pugs"
+        },
+        {
+            "id":7,
+            "name": "Cocker",
+            "breed": "Cocker"
+        },
+        {
+            "id":8,
+            "name": "Golden Retriever",
+            "breed": "Golden Retriever"
+        }
+    ]
+}
